@@ -1,7 +1,5 @@
 # Building Data-Driven Occupation Taxonomies: A Bottom-Up Multi-Stage Approach via Semantic Clustering and Multi-Agent Collaboration
 
-### under review
-
 
 ## Requirements
 
